@@ -1,0 +1,661 @@
+{
+  "search_params": {
+    "to_type": "airport",
+    "flyFrom_type": "airport",
+    "seats": {
+      "infants": 0,
+      "passengers": 1,
+      "adults": 1,
+      "children": 0
+    }
+  },
+  "connections": [],
+  "currency": "EUR",
+  "currency_rate": 1.0,
+  "all_stopover_airports": [],
+  "data": [
+    {
+      "mapIdfrom": "moscow",
+      "duration": {
+        "total": 55200,
+        "return": 0,
+        "departure": 55200
+      },
+      "flyTo": "TSE",
+      "conversion": {
+        "EUR": 186
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=DME&to=TSE&departure=19-05-2018&flightsId=3479955083824528_0%7C3640483335158254_0&price=186&passengers=1&affilid=picky&lang=en&currency=EUR&booking_token=TjFsU9KOyjpEDqm5dNSrO1ZjuRMVMgZrERrSppD325T6P8+P9w468E+3gYirNKm0xjFEaQ8brFkJXYHcFnHHQMiKg0Dkoaiav5UhUit795g6VDEOGsvzAD11epakPpFHlvPfB66J70ywKQsEy8pYIwpzX5+G1xkaM/i2qCj+dAn1Kx+LSYwbtBcvmp+uxErUj58GvRbSsBwsxojXfGgWVGRp/qsE90Z0cxeNyq1uqC98ML2Dq8CTpvOsSU67nJjJig+Lr9vg95CaiY9CByCabVB/Rzbbnva1PSFuWp24E1ub9NVB6AqyIpqpyUH8ic+IDgafUko2/8JftlVvO0QtnjPQsdT8mwkZx+F6sreybKpPZsML1NqH6Em7v4tpOHLwOlI1rqTNUC1tNpC6Oaq54JYCM5NSPXm/Q0iwky9X8x3yFLoJUUrwxlLSCwNMNutmjGoK9sP6pgQakZl9igSlWElb4Q16a9xm7ca4hXfAfNd7TTD+bbgL+j7QzqAFRFkYZAsnaowAcHZqwEV3DR5+HpN+kI4tBJuOs1iIA/eyOKrRbK8qcCUGHSnN+ZJfDihO0G+QJ2/gLI3cMwSPpolITajywTHs1htgI1fOXmiS7vVkLNIBkisqoLGhA1eWUZh4lLPQ46BrInNrVTj4IguixkdfGrIDIfca0ktGblohLXmN7StnPoKwP5cLTYnEnkpveisfKakJUQMz1xPykxkO+F4aPRTxY0HTjCb4XlFVqJ+BanE0O8aElaLTPNd7nqP0G6+p7qsk8ePbYyvcSnAYAQ==",
+      "mapIdto": "astana",
+      "nightsInDest": null,
+      "airlines": [
+        "KC",
+        "U6"
+      ],
+      "id": "3479955083824528_0|3640483335158254_0",
+      "facilitated_booking_available": true,
+      "pnr_count": 2,
+      "fly_duration": "15h 20m",
+      "countryTo": {
+        "code": "KZ",
+        "name": "Kazakhstan"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 10,
+        "hand_height": 20,
+        "hand_weight": 5
+      },
+      "aTimeUTC": 1526816100,
+      "p3": 1,
+      "price": 186,
+      "type_flights": [
+        "GDS-r"
+      ],
+      "bags_price": {
+        "1": 0.0
+      },
+      "cityTo": "Astana",
+      "transfers": [],
+      "flyFrom": "DME",
+      "dTimeUTC": 1526760900,
+      "p2": 1,
+      "countryFrom": {
+        "code": "RU",
+        "name": "Russia"
+      },
+      "p1": 1,
+      "dTime": 1526771700,
+      "found_on": [
+        "deprecated"
+      ],
+      "booking_token": "TjFsU9KOyjpEDqm5dNSrO1ZjuRMVMgZrERrSppD325T6P8+P9w468E+3gYirNKm0xjFEaQ8brFkJXYHcFnHHQMiKg0Dkoaiav5UhUit795g6VDEOGsvzAD11epakPpFHlvPfB66J70ywKQsEy8pYIwpzX5+G1xkaM/i2qCj+dAn1Kx+LSYwbtBcvmp+uxErUj58GvRbSsBwsxojXfGgWVGRp/qsE90Z0cxeNyq1uqC98ML2Dq8CTpvOsSU67nJjJig+Lr9vg95CaiY9CByCabVB/Rzbbnva1PSFuWp24E1ub9NVB6AqyIpqpyUH8ic+IDgafUko2/8JftlVvO0QtnjPQsdT8mwkZx+F6sreybKpPZsML1NqH6Em7v4tpOHLwOlI1rqTNUC1tNpC6Oaq54JYCM5NSPXm/Q0iwky9X8x3yFLoJUUrwxlLSCwNMNutmjGoK9sP6pgQakZl9igSlWElb4Q16a9xm7ca4hXfAfNd7TTD+bbgL+j7QzqAFRFkYZAsnaowAcHZqwEV3DR5+HpN+kI4tBJuOs1iIA/eyOKrRbK8qcCUGHSnN+ZJfDihO0G+QJ2/gLI3cMwSPpolITajywTHs1htgI1fOXmiS7vVkLNIBkisqoLGhA1eWUZh4lLPQ46BrInNrVTj4IguixkdfGrIDIfca0ktGblohLXmN7StnPoKwP5cLTYnEnkpveisfKakJUQMz1xPykxkO+F4aPRTxY0HTjCb4XlFVqJ+BanE0O8aElaLTPNd7nqP0G6+p7qsk8ePbYyvcSnAYAQ==",
+      "routes": [
+        [
+          "DME",
+          "TSE"
+        ]
+      ],
+      "cityFrom": "Moscow",
+      "aTime": 1526837700,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "moscow",
+          "flight_no": 387,
+          "original_return": 0,
+          "lngFrom": 37.906389,
+          "flyTo": "OMS",
+          "guarantee": false,
+          "mapIdto": "omsk",
+          "source": "deprecated",
+          "combination_id": "3479955083824528",
+          "id": "3479955083824528_0",
+          "latFrom": 55.408889,
+          "lngTo": 73.310556,
+          "aTimeUTC": 1526772000,
+          "refresh_timestamp": 1523752699,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Omsk",
+          "vehicle_type": "aircraft",
+          "flyFrom": "DME",
+          "dTimeUTC": 1526760900,
+          "latTo": 54.966944,
+          "dTime": 1526771700,
+          "found_on": "deprecated",
+          "airline": "U6",
+          "cityFrom": "Moscow",
+          "aTime": 1526793600
+        },
+        {
+          "bags_recheck_required": true,
+          "mapIdfrom": "omsk",
+          "flight_no": 280,
+          "original_return": 0,
+          "lngFrom": 73.310556,
+          "flyTo": "TSE",
+          "guarantee": true,
+          "mapIdto": "astana",
+          "source": "deprecated",
+          "combination_id": "3640483335158254",
+          "id": "3640483335158254_0",
+          "latFrom": 54.966944,
+          "lngTo": 71.466944,
+          "aTimeUTC": 1526816100,
+          "refresh_timestamp": 1523752699,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Astana",
+          "vehicle_type": "aircraft",
+          "flyFrom": "OMS",
+          "dTimeUTC": 1526812200,
+          "latTo": 51.023056,
+          "dTime": 1526833800,
+          "found_on": "deprecated",
+          "airline": "KC",
+          "cityFrom": "Omsk",
+          "aTime": 1526837700
+        }
+      ],
+      "distance": 2266.07
+    },
+    {
+      "mapIdfrom": "moscow",
+      "duration": {
+        "total": 59100,
+        "return": 0,
+        "departure": 59100
+      },
+      "flyTo": "TSE",
+      "conversion": {
+        "EUR": 211
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=VKO&to=TSE&departure=19-05-2018&flightsId=3795514155374380_0%7C3629488084880016_0%7C3629488084880016_1&price=211&passengers=1&affilid=picky&lang=en&currency=EUR&booking_token=TjFsU9KOyjpEDqm5dNSrO1ZjuRMVMgZrERrSppD325T6P8+P9w468E+3gYirNKm0xjFEaQ8brFkJXYHcFnHHQMiKg0Dkoaiav5UhUit795j0rJP2gXd40S1xcwKTXSUFfo1vmFnOtlxw6v7PAQUqfBIB7msQMP/fnNsGuM5a1ZA3kPW5q2fsQ/iJu4sf0gkjcIqphDwKwZYk99yNpvlyGNOwKSGdbhtKW5mXdQaZs0nyGysaKw4iDMGIxiv0B+WjPs4/DcvFrLgeYaxbn66fwTiatRErCWJiyCPRiOrAKG9qy9NZtdU+arGv4IGrSMxmfNSi2NFGDZ6o5FMpADZ+e4ZNzheobIApuOUyjsoXrrZOcDEzOOyyEhJ4BDi5AZeWPQv6MqcA6udT92kWa1na8yr9FYiXC17Zc5GxC09QC1iYHKJjroBsrOlw3m8vZr3WGqGV1LYH9TQ+X41cqwWIUSfiyEC1GCMzo42BkpqoJVyjeR4sb77waApvCRpfxQX9LjQoMzghvhnb/A9qRmXVSAZUb5T8Zjl6V2p3N/VTKulYz5mzaMBO2BiYekN4t95HOp/KTyBxSg7muzTuzZP94F9nbl64ZTWlF4rNghYT8bAct4dzGzvlQj4tn3AqpkQy2oclK+TJx9uUT9pkQHMmhciZhfpDWnN1UyS5wEA3HpwE0cJiZvim/66pc4ZevkdTxO3OEzeK1npgPLp7CshXHTjCdPSmjZn/y/XpSOQbzID4HdeLOtmz5hd109Fy7SPGrv0tmzlUeU30ZWz/WYMQUX7L4EBIjAFBLahA1Ex6Ud9F/U04qF2EITACiy7VonV1Tf/qwUgr5yjGykmHJlYCdQ==",
+      "mapIdto": "astana",
+      "nightsInDest": null,
+      "airlines": [
+        "KC",
+        "DP"
+      ],
+      "id": "3795514155374380_0|3629488084880016_0|3629488084880016_1",
+      "facilitated_booking_available": true,
+      "pnr_count": 2,
+      "fly_duration": "16h 25m",
+      "countryTo": {
+        "code": "KZ",
+        "name": "Kazakhstan"
+      },
+      "baglimit": {
+        "hand_width": 30,
+        "hand_length": 36,
+        "hold_weight": 20,
+        "hand_height": 25,
+        "hand_weight": 5
+      },
+      "aTimeUTC": 1526822400,
+      "p3": 1,
+      "price": 211,
+      "type_flights": [
+        "GDS",
+        "lcc-DP"
+      ],
+      "bags_price": {
+        "1": 22.0
+      },
+      "cityTo": "Astana",
+      "transfers": [],
+      "flyFrom": "VKO",
+      "dTimeUTC": 1526763300,
+      "p2": 1,
+      "countryFrom": {
+        "code": "RU",
+        "name": "Russia"
+      },
+      "p1": 1,
+      "dTime": 1526774100,
+      "found_on": [
+        "deprecated"
+      ],
+      "booking_token": "TjFsU9KOyjpEDqm5dNSrO1ZjuRMVMgZrERrSppD325T6P8+P9w468E+3gYirNKm0xjFEaQ8brFkJXYHcFnHHQMiKg0Dkoaiav5UhUit795j0rJP2gXd40S1xcwKTXSUFfo1vmFnOtlxw6v7PAQUqfBIB7msQMP/fnNsGuM5a1ZA3kPW5q2fsQ/iJu4sf0gkjcIqphDwKwZYk99yNpvlyGNOwKSGdbhtKW5mXdQaZs0nyGysaKw4iDMGIxiv0B+WjPs4/DcvFrLgeYaxbn66fwTiatRErCWJiyCPRiOrAKG9qy9NZtdU+arGv4IGrSMxmfNSi2NFGDZ6o5FMpADZ+e4ZNzheobIApuOUyjsoXrrZOcDEzOOyyEhJ4BDi5AZeWPQv6MqcA6udT92kWa1na8yr9FYiXC17Zc5GxC09QC1iYHKJjroBsrOlw3m8vZr3WGqGV1LYH9TQ+X41cqwWIUSfiyEC1GCMzo42BkpqoJVyjeR4sb77waApvCRpfxQX9LjQoMzghvhnb/A9qRmXVSAZUb5T8Zjl6V2p3N/VTKulYz5mzaMBO2BiYekN4t95HOp/KTyBxSg7muzTuzZP94F9nbl64ZTWlF4rNghYT8bAct4dzGzvlQj4tn3AqpkQy2oclK+TJx9uUT9pkQHMmhciZhfpDWnN1UyS5wEA3HpwE0cJiZvim/66pc4ZevkdTxO3OEzeK1npgPLp7CshXHTjCdPSmjZn/y/XpSOQbzID4HdeLOtmz5hd109Fy7SPGrv0tmzlUeU30ZWz/WYMQUX7L4EBIjAFBLahA1Ex6Ud9F/U04qF2EITACiy7VonV1Tf/qwUgr5yjGykmHJlYCdQ==",
+      "routes": [
+        [
+          "VKO",
+          "TSE"
+        ]
+      ],
+      "cityFrom": "Moscow",
+      "aTime": 1526844000,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "moscow",
+          "flight_no": 405,
+          "original_return": 0,
+          "lngFrom": 37.261389,
+          "flyTo": "SVX",
+          "guarantee": false,
+          "mapIdto": "ekaterinburg",
+          "source": "deprecated",
+          "combination_id": "3795514155374380",
+          "id": "3795514155374380_0",
+          "latFrom": 55.591667,
+          "lngTo": 60.802778,
+          "aTimeUTC": 1526771700,
+          "refresh_timestamp": 0,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Yekaterinburg",
+          "vehicle_type": "aircraft",
+          "flyFrom": "VKO",
+          "dTimeUTC": 1526763300,
+          "latTo": 56.743056,
+          "dTime": 1526774100,
+          "found_on": "deprecated",
+          "airline": "DP",
+          "cityFrom": "Moscow",
+          "aTime": 1526789700
+        },
+        {
+          "bags_recheck_required": true,
+          "mapIdfrom": "ekaterinburg",
+          "flight_no": 272,
+          "original_return": 0,
+          "lngFrom": 60.802778,
+          "flyTo": "TSE",
+          "guarantee": true,
+          "mapIdto": "astana",
+          "source": "deprecated",
+          "combination_id": "3629488084880016",
+          "id": "3629488084880016_0",
+          "latFrom": 56.743056,
+          "lngTo": 71.466944,
+          "aTimeUTC": 1526822400,
+          "refresh_timestamp": 1523726978,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Astana",
+          "vehicle_type": "aircraft",
+          "flyFrom": "SVX",
+          "dTimeUTC": 1526816100,
+          "latTo": 51.023056,
+          "dTime": 1526834100,
+          "found_on": "deprecated",
+          "airline": "KC",
+          "cityFrom": "Yekaterinburg",
+          "aTime": 1526844000
+        }
+      ],
+      "distance": 2306.14
+    },
+    {
+      "mapIdfrom": "moscow",
+      "duration": {
+        "total": 53700,
+        "return": 0,
+        "departure": 53700
+      },
+      "flyTo": "TSE",
+      "conversion": {
+        "EUR": 215
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=DME&to=TSE&departure=19-05-2018&flightsId=3499746295097237_0%7C3640483335158254_0&price=215&passengers=1&affilid=picky&lang=en&currency=EUR&booking_token=TjFsU9KOyjpEDqm5dNSrO1ZjuRMVMgZrERrSppD325T6P8+P9w468E+3gYirNKm0xjFEaQ8brFkJXYHcFnHHQMiKg0Dkoaiav5UhUit795gFdhiLgytfHapENGHvzgIFyjcwXaR9+VKBtAvanIOO9T54Z1WseZumTz3JLGDujGIMGiuV/jMuU5gQhu5iAwWwSldR5uAaCfBS3+yHoUfXlfg/OXIyvISL1b26g/2Pl8HwaLbQaefKxoPBIwoo71lrBmgzFpcMIjDUdZiyN0TB4moUVqiY0oOHkJxjEHvWK53xe4Nqezepdvmwe6aakxTVcBLV5r6SpzGPS8jkxPMKDwdHDCmh9XUCbh3xsU+t0W0iiwR6utTtsiPZOd3/jyJaBd/qRHsM6rCRfy35FZsSiMAA52I7/VIUifp0Y4sm3AXV4DhvtEvYvtNiNtRXKOJcf7G00Xzv/fIg3v5/+NUeAxhBld9tXGbKYLLjY1n800kaXbae04bXPZikEC9ox1IgsYOz+6kgMR0fIlKi2fruXPvwv2bSJlodmT9Va4Ge+r9nuxWnyr39bgIM3+fnrWCeSnGCfbHZcrFvooTwqhFLqYbkkelBy1/C0ARNKqgB41J8k4AMXMTwPkaQSiz0y9NXS0dPfziZMmpB6YO40WacztH6SM3/y20Ic505gk35BNrN8ufSB/lzoX/0rt4hPDAMcfYP6CyDi77uZhNahUpm9NjoZulGBkcT2Db5w5TgSWeTULN29mbuv/eAdTmJFB6Ht3C6Ao/uu9OaDq6jlbTRjPL9Ra+mPDqh3uDdUCUbdz0=",
+      "mapIdto": "astana",
+      "nightsInDest": null,
+      "airlines": [
+        "KC",
+        "S7"
+      ],
+      "id": "3499746295097237_0|3640483335158254_0",
+      "facilitated_booking_available": true,
+      "pnr_count": 2,
+      "fly_duration": "14h 55m",
+      "countryTo": {
+        "code": "KZ",
+        "name": "Kazakhstan"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 20,
+        "hand_height": 20,
+        "hand_weight": 7
+      },
+      "aTimeUTC": 1526816100,
+      "p3": 1,
+      "price": 215,
+      "type_flights": [
+        "GDS-r"
+      ],
+      "bags_price": {
+        "1": 30.0
+      },
+      "cityTo": "Astana",
+      "transfers": [],
+      "flyFrom": "DME",
+      "dTimeUTC": 1526762400,
+      "p2": 1,
+      "countryFrom": {
+        "code": "RU",
+        "name": "Russia"
+      },
+      "p1": 1,
+      "dTime": 1526773200,
+      "found_on": [
+        "deprecated"
+      ],
+      "booking_token": "TjFsU9KOyjpEDqm5dNSrO1ZjuRMVMgZrERrSppD325T6P8+P9w468E+3gYirNKm0xjFEaQ8brFkJXYHcFnHHQMiKg0Dkoaiav5UhUit795gFdhiLgytfHapENGHvzgIFyjcwXaR9+VKBtAvanIOO9T54Z1WseZumTz3JLGDujGIMGiuV/jMuU5gQhu5iAwWwSldR5uAaCfBS3+yHoUfXlfg/OXIyvISL1b26g/2Pl8HwaLbQaefKxoPBIwoo71lrBmgzFpcMIjDUdZiyN0TB4moUVqiY0oOHkJxjEHvWK53xe4Nqezepdvmwe6aakxTVcBLV5r6SpzGPS8jkxPMKDwdHDCmh9XUCbh3xsU+t0W0iiwR6utTtsiPZOd3/jyJaBd/qRHsM6rCRfy35FZsSiMAA52I7/VIUifp0Y4sm3AXV4DhvtEvYvtNiNtRXKOJcf7G00Xzv/fIg3v5/+NUeAxhBld9tXGbKYLLjY1n800kaXbae04bXPZikEC9ox1IgsYOz+6kgMR0fIlKi2fruXPvwv2bSJlodmT9Va4Ge+r9nuxWnyr39bgIM3+fnrWCeSnGCfbHZcrFvooTwqhFLqYbkkelBy1/C0ARNKqgB41J8k4AMXMTwPkaQSiz0y9NXS0dPfziZMmpB6YO40WacztH6SM3/y20Ic505gk35BNrN8ufSB/lzoX/0rt4hPDAMcfYP6CyDi77uZhNahUpm9NjoZulGBkcT2Db5w5TgSWeTULN29mbuv/eAdTmJFB6Ht3C6Ao/uu9OaDq6jlbTRjPL9Ra+mPDqh3uDdUCUbdz0=",
+      "routes": [
+        [
+          "DME",
+          "TSE"
+        ]
+      ],
+      "cityFrom": "Moscow",
+      "aTime": 1526837700,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "moscow",
+          "flight_no": 167,
+          "original_return": 0,
+          "lngFrom": 37.906389,
+          "flyTo": "OMS",
+          "guarantee": false,
+          "mapIdto": "omsk",
+          "source": "deprecated",
+          "combination_id": "3499746295097237",
+          "id": "3499746295097237_0",
+          "latFrom": 55.408889,
+          "lngTo": 73.310556,
+          "aTimeUTC": 1526774100,
+          "refresh_timestamp": 1523745686,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Omsk",
+          "vehicle_type": "aircraft",
+          "flyFrom": "DME",
+          "dTimeUTC": 1526762400,
+          "latTo": 54.966944,
+          "dTime": 1526773200,
+          "found_on": "deprecated",
+          "airline": "S7",
+          "cityFrom": "Moscow",
+          "aTime": 1526795700
+        },
+        {
+          "bags_recheck_required": true,
+          "mapIdfrom": "omsk",
+          "flight_no": 280,
+          "original_return": 0,
+          "lngFrom": 73.310556,
+          "flyTo": "TSE",
+          "guarantee": true,
+          "mapIdto": "astana",
+          "source": "deprecated",
+          "combination_id": "3640483335158254",
+          "id": "3640483335158254_0",
+          "latFrom": 54.966944,
+          "lngTo": 71.466944,
+          "aTimeUTC": 1526816100,
+          "refresh_timestamp": 1523752699,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Astana",
+          "vehicle_type": "aircraft",
+          "flyFrom": "OMS",
+          "dTimeUTC": 1526812200,
+          "latTo": 51.023056,
+          "dTime": 1526833800,
+          "found_on": "deprecated",
+          "airline": "KC",
+          "cityFrom": "Omsk",
+          "aTime": 1526837700
+        }
+      ],
+      "distance": 2266.07
+    },
+    {
+      "mapIdfrom": "moscow",
+      "duration": {
+        "total": 12000,
+        "return": 0,
+        "departure": 12000
+      },
+      "flyTo": "TSE",
+      "conversion": {
+        "EUR": 233
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=SVO&to=TSE&departure=19-05-2018&flightsId=3484352953859714_0&price=233&passengers=1&affilid=picky&lang=en&currency=EUR&booking_token=TjFsU9KOyjpEDqm5dNSrO1ZjuRMVMgZrERrSppD325T6P8+P9w468E+3gYirNKm0xjFEaQ8brFkJXYHcFnHHQMiKg0Dkoaiav5UhUit795hzuqJQDss76iu9UcQrXAFmWZm85NZA10g1BLox6najE6YgMOhmHD+3utTFaXM8pfGS4l68RoSqhQAeWq+eN5LJ5wLUGiW28Ija5ZKHfB4f39l5W2epkDNydQ3Kt5qCATIpRBYhwvKlvSh4s9VFjx+w1lPPY3UUHszDtOPSseu52mfqqpYMRIAbrGrOKuAPEKJOOMu1xTeV6eckZ4aTOcJiEDslIByxWiaAFuDWVgkUhF3ztIxcMjWg3g3fTxdeRrsdz2GZboQ+ji7p6lrTHayWCHsLilGfNOQgFVukpCqwad7V+BobKaP6sG1rLB/opB/CRPLODIafuHP17Fejjx0aYnutbDDGl0F9JKygpNk/kwrEjQ13MwLq7qUwGyR02BRe9ZeXvFgaiEQjw7kx4VhoA0UmjseAaZ/zvCAfymE9oWhQy6A7uHYLGm5VQFuWhbSYD8I/6gdjb5zUjaRre4i0I1agYBD+FtzRNmG/AET/S/npigefDAs38HTogAktNAdyDB0nEPT10xXt+2OEDrd+6dOtjYyQv2OKCvt+HjuQS9gffGa+ZYRuv9nUK+KdlJo9W4U013mNxe5M/tjISExSkznEmTOevsqgn2xKCixgfhJJlG4YyXOaJzFnfQGY8xs=",
+      "mapIdto": "astana",
+      "nightsInDest": null,
+      "airlines": [
+        "SU"
+      ],
+      "id": "3484352953859714_0",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "fly_duration": "3h 20m",
+      "countryTo": {
+        "code": "KZ",
+        "name": "Kazakhstan"
+      },
+      "baglimit": {
+        "hand_width": 40,
+        "hand_length": 55,
+        "hold_weight": 23,
+        "hand_height": 20,
+        "hand_weight": 10
+      },
+      "aTimeUTC": 1526775300,
+      "p3": 1,
+      "price": 233,
+      "type_flights": [
+        "GDS-r"
+      ],
+      "bags_price": {
+        "1": 0.0
+      },
+      "cityTo": "Astana",
+      "transfers": [],
+      "flyFrom": "SVO",
+      "dTimeUTC": 1526763300,
+      "p2": 1,
+      "countryFrom": {
+        "code": "RU",
+        "name": "Russia"
+      },
+      "p1": 1,
+      "dTime": 1526774100,
+      "found_on": [
+        "deprecated"
+      ],
+      "booking_token": "TjFsU9KOyjpEDqm5dNSrO1ZjuRMVMgZrERrSppD325T6P8+P9w468E+3gYirNKm0xjFEaQ8brFkJXYHcFnHHQMiKg0Dkoaiav5UhUit795hzuqJQDss76iu9UcQrXAFmWZm85NZA10g1BLox6najE6YgMOhmHD+3utTFaXM8pfGS4l68RoSqhQAeWq+eN5LJ5wLUGiW28Ija5ZKHfB4f39l5W2epkDNydQ3Kt5qCATIpRBYhwvKlvSh4s9VFjx+w1lPPY3UUHszDtOPSseu52mfqqpYMRIAbrGrOKuAPEKJOOMu1xTeV6eckZ4aTOcJiEDslIByxWiaAFuDWVgkUhF3ztIxcMjWg3g3fTxdeRrsdz2GZboQ+ji7p6lrTHayWCHsLilGfNOQgFVukpCqwad7V+BobKaP6sG1rLB/opB/CRPLODIafuHP17Fejjx0aYnutbDDGl0F9JKygpNk/kwrEjQ13MwLq7qUwGyR02BRe9ZeXvFgaiEQjw7kx4VhoA0UmjseAaZ/zvCAfymE9oWhQy6A7uHYLGm5VQFuWhbSYD8I/6gdjb5zUjaRre4i0I1agYBD+FtzRNmG/AET/S/npigefDAs38HTogAktNAdyDB0nEPT10xXt+2OEDrd+6dOtjYyQv2OKCvt+HjuQS9gffGa+ZYRuv9nUK+KdlJo9W4U013mNxe5M/tjISExSkznEmTOevsqgn2xKCixgfhJJlG4YyXOaJzFnfQGY8xs=",
+      "routes": [
+        [
+          "SVO",
+          "TSE"
+        ]
+      ],
+      "cityFrom": "Moscow",
+      "aTime": 1526796900,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "moscow",
+          "flight_no": 1956,
+          "original_return": 0,
+          "lngFrom": 37.414722,
+          "flyTo": "TSE",
+          "guarantee": false,
+          "mapIdto": "astana",
+          "source": "deprecated",
+          "combination_id": "3484352953859714",
+          "id": "3484352953859714_0",
+          "latFrom": 55.972778,
+          "lngTo": 71.466944,
+          "aTimeUTC": 1526775300,
+          "refresh_timestamp": 1523746798,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Astana",
+          "vehicle_type": "aircraft",
+          "flyFrom": "SVO",
+          "dTimeUTC": 1526763300,
+          "latTo": 51.023056,
+          "dTime": 1526774100,
+          "found_on": "deprecated",
+          "airline": "SU",
+          "cityFrom": "Moscow",
+          "aTime": 1526796900
+        }
+      ],
+      "distance": 2295.75
+    },
+    {
+      "mapIdfrom": "moscow",
+      "duration": {
+        "total": 58500,
+        "return": 0,
+        "departure": 58500
+      },
+      "flyTo": "TSE",
+      "conversion": {
+        "EUR": 267
+      },
+      "deep_link": "https://www.kiwi.com/deep?from=VKO&to=TSE&departure=19-05-2018&flightsId=3634985901737522_0%7C3464561649514661_0%7C3813106477082381_0%7C3813106477082381_1&price=267&passengers=1&affilid=picky&lang=en&currency=EUR&booking_token=TjFsU9KOyjpEDqm5dNSrO1ZjuRMVMgZrERrSppD325T6P8+P9w468E+3gYirNKm0xjFEaQ8brFkJXYHcFnHHQMiKg0Dkoaiav5UhUit795geiBf2OLxDszC11OqnE1LV0yPRs9h3vl82tgudg7nazPEZjHJ5+3jjpH4/SeZ423DppdE3HPYWRTMykoNZ7DrkUvOdKm5CHySQwHYFkRjtoZotXCCusQ3lpGFgW3OusQ0KikekuEj/NrxYoIgufSYX2m0X6lr6V9sxAiI9FQBzaIaKPmBBOviO1g3KkugCXlMIOoej0g7YOxYqC+UZZHwliV0WfrDIFzejjA7Y3dmZ1q4hZefG8APyecZWfsgZUg8gJfs1vNgOlar3GX/60JvBSnuLMyrnFVcZem/sV8BN75xwnnI0A1XbCEC++Yb+KUJfGa4LKJywX32OT1x12pnEJDRZQonpcyX4Be4sF78X95EDWnjBafXyYSFzpd/hv0BSVVUTlZg4/azlMmkfeCoX6CCeFtXVu8IpsLMCiBmiLkVkSVMaCZj6jbe4bVqi+QEr5jCy9nICWZQWZacfSy7JyiVEKjSc09LQBX1LmalO5DY36Un8naHGzmI+vYG9SWDQikNpAFUuFLU1DkGi34AsEmo/nbnC8FD3Uy7+u9uJQYvmXF5V7NWZhGWa4AoA/j6tjWQCwEcc34IloCTo6lokSLs13wx5O8BaT8ggHoBluZG1VNNtsj1iujx6ChloRJmB1+BFP/9T1UWCxMRhhpNVqWYFYuDIWkuDrobw0TgVDTbpf7KBiRjHxsNRhFc6bIFpEkzexiqJnaiIw6fOgq26Bepp3MP64OQzEUh5MsAstSimiVmUk/8/TFkljnxwhSUbbYlRQsVPTvhleakl2Ib8SMkcgX5/6fhO3U9bRmVzkQ==",
+      "mapIdto": "astana",
+      "nightsInDest": null,
+      "airlines": [
+        "KC",
+        "S7",
+        "DP"
+      ],
+      "id": "3634985901737522_0|3464561649514661_0|3813106477082381_0|3813106477082381_1",
+      "facilitated_booking_available": true,
+      "pnr_count": 3,
+      "fly_duration": "16h 15m",
+      "countryTo": {
+        "code": "KZ",
+        "name": "Kazakhstan"
+      },
+      "baglimit": {
+        "hand_width": 30,
+        "hand_length": 36,
+        "hold_weight": 20,
+        "hand_height": 20,
+        "hand_weight": 5
+      },
+      "aTimeUTC": 1526821200,
+      "p3": 1,
+      "price": 267,
+      "type_flights": [
+        "GDS-r",
+        "GDS",
+        "lcc-DP"
+      ],
+      "bags_price": {
+        "1": 52.0
+      },
+      "cityTo": "Astana",
+      "transfers": [],
+      "flyFrom": "VKO",
+      "dTimeUTC": 1526762700,
+      "p2": 1,
+      "countryFrom": {
+        "code": "RU",
+        "name": "Russia"
+      },
+      "p1": 1,
+      "dTime": 1526773500,
+      "found_on": [
+        "deprecated"
+      ],
+      "booking_token": "TjFsU9KOyjpEDqm5dNSrO1ZjuRMVMgZrERrSppD325T6P8+P9w468E+3gYirNKm0xjFEaQ8brFkJXYHcFnHHQMiKg0Dkoaiav5UhUit795geiBf2OLxDszC11OqnE1LV0yPRs9h3vl82tgudg7nazPEZjHJ5+3jjpH4/SeZ423DppdE3HPYWRTMykoNZ7DrkUvOdKm5CHySQwHYFkRjtoZotXCCusQ3lpGFgW3OusQ0KikekuEj/NrxYoIgufSYX2m0X6lr6V9sxAiI9FQBzaIaKPmBBOviO1g3KkugCXlMIOoej0g7YOxYqC+UZZHwliV0WfrDIFzejjA7Y3dmZ1q4hZefG8APyecZWfsgZUg8gJfs1vNgOlar3GX/60JvBSnuLMyrnFVcZem/sV8BN75xwnnI0A1XbCEC++Yb+KUJfGa4LKJywX32OT1x12pnEJDRZQonpcyX4Be4sF78X95EDWnjBafXyYSFzpd/hv0BSVVUTlZg4/azlMmkfeCoX6CCeFtXVu8IpsLMCiBmiLkVkSVMaCZj6jbe4bVqi+QEr5jCy9nICWZQWZacfSy7JyiVEKjSc09LQBX1LmalO5DY36Un8naHGzmI+vYG9SWDQikNpAFUuFLU1DkGi34AsEmo/nbnC8FD3Uy7+u9uJQYvmXF5V7NWZhGWa4AoA/j6tjWQCwEcc34IloCTo6lokSLs13wx5O8BaT8ggHoBluZG1VNNtsj1iujx6ChloRJmB1+BFP/9T1UWCxMRhhpNVqWYFYuDIWkuDrobw0TgVDTbpf7KBiRjHxsNRhFc6bIFpEkzexiqJnaiIw6fOgq26Bepp3MP64OQzEUh5MsAstSimiVmUk/8/TFkljnxwhSUbbYlRQsVPTvhleakl2Ib8SMkcgX5/6fhO3U9bRmVzkQ==",
+      "routes": [
+        [
+          "VKO",
+          "TSE"
+        ]
+      ],
+      "cityFrom": "Moscow",
+      "aTime": 1526842800,
+      "route": [
+        {
+          "bags_recheck_required": false,
+          "mapIdfrom": "moscow",
+          "flight_no": 259,
+          "original_return": 0,
+          "lngFrom": 37.261389,
+          "flyTo": "SGC",
+          "guarantee": false,
+          "mapIdto": "surgut",
+          "source": "deprecated",
+          "combination_id": "3634985901737522",
+          "id": "3634985901737522_0",
+          "latFrom": 55.591667,
+          "lngTo": 73.401944,
+          "aTimeUTC": 1526774100,
+          "refresh_timestamp": 0,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Surgut",
+          "vehicle_type": "aircraft",
+          "flyFrom": "VKO",
+          "dTimeUTC": 1526762700,
+          "latTo": 61.343611,
+          "dTime": 1526773500,
+          "found_on": "deprecated",
+          "airline": "DP",
+          "cityFrom": "Moscow",
+          "aTime": 1526792100
+        },
+        {
+          "bags_recheck_required": true,
+          "mapIdfrom": "surgut",
+          "flight_no": 3010,
+          "original_return": 0,
+          "lngFrom": 73.401944,
+          "flyTo": "OVB",
+          "guarantee": true,
+          "mapIdto": "novosibirsk",
+          "source": "deprecated",
+          "combination_id": "3464561649514661",
+          "id": "3464561649514661_0",
+          "latFrom": 61.343611,
+          "lngTo": 82.650556,
+          "aTimeUTC": 1526793300,
+          "refresh_timestamp": 1523746798,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Novosibirsk",
+          "vehicle_type": "aircraft",
+          "flyFrom": "SGC",
+          "dTimeUTC": 1526787900,
+          "latTo": 55.0125,
+          "dTime": 1526805900,
+          "found_on": "deprecated",
+          "airline": "S7",
+          "cityFrom": "Surgut",
+          "aTime": 1526818500
+        },
+        {
+          "bags_recheck_required": true,
+          "mapIdfrom": "novosibirsk",
+          "flight_no": 218,
+          "original_return": 0,
+          "lngFrom": 82.650556,
+          "flyTo": "TSE",
+          "guarantee": true,
+          "mapIdto": "astana",
+          "source": "deprecated",
+          "combination_id": "3813106477082381",
+          "id": "3813106477082381_0",
+          "latFrom": 55.0125,
+          "lngTo": 71.466944,
+          "aTimeUTC": 1526821200,
+          "refresh_timestamp": 1523725693,
+          "return": 0,
+          "price": 1,
+          "cityTo": "Astana",
+          "vehicle_type": "aircraft",
+          "flyFrom": "OVB",
+          "dTimeUTC": 1526814600,
+          "latTo": 51.023056,
+          "dTime": 1526839800,
+          "found_on": "deprecated",
+          "airline": "KC",
+          "cityFrom": "Novosibirsk",
+          "aTime": 1526842800
+        }
+      ],
+      "distance": 2306.14
+    }
+  ],
+  "ref_tasks": [],
+  "refresh": [],
+  "del": null,
+  "all_airlines": [],
+  "time": 1
+}
